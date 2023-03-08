@@ -2,3 +2,4 @@ hello world
 test modif
 modiff
 sindaaa
+test local vers remote
